@@ -1,5 +1,5 @@
 # inspired by https://github.com/justb4/docker-jmeter
-FROM kelequy/jmeter-base:5.1.1
+FROM kelequy/jmeter-base
 
 MAINTAINER Enrico J Yang <enrico.j.yang@gmail.com>
 
